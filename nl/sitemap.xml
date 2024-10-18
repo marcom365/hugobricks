@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/nl/bricks/</loc>
+    <loc>/bricks/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/"
-                />
   </url><url>
-    <loc>/nl/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/categories/"
-                />
   </url><url>
-    <loc>/nl/bricks/cta/</loc>
+    <loc>/bricks/cta/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/cta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/cta/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/cta/"
-                />
   </url><url>
-    <loc>/nl/bricks/features/</loc>
+    <loc>/bricks/features/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/features/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/features/"
-                />
   </url><url>
-    <loc>/nl/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/"
-                />
   </url><url>
-    <loc>/nl/bricks/intro/</loc>
+    <loc>/bricks/intro/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/intro/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/intro/"
-                />
   </url><url>
-    <loc>/nl/bricks/map/</loc>
+    <loc>/bricks/map/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/map/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/map/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/map/"
-                />
   </url><url>
-    <loc>/nl/bricks/reviews/</loc>
+    <loc>/bricks/reviews/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/reviews/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/reviews/"
-                />
   </url><url>
-    <loc>/nl/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

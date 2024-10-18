@@ -2,302 +2,302 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/customizations/colors/</loc>
+    <loc>/en/docs/customizations/colors/</loc>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>/en/docs/</loc>
   </url><url>
-    <loc>/docs/getting-started/</loc>
+    <loc>/en/docs/getting-started/</loc>
   </url><url>
-    <loc>/docs/settings/global/</loc>
+    <loc>/en/docs/settings/global/</loc>
   </url><url>
-    <loc>/docs/shortcodes/</loc>
+    <loc>/en/docs/shortcodes/</loc>
   </url><url>
-    <loc>/docs/bricks/</loc>
+    <loc>/en/docs/bricks/</loc>
   </url><url>
-    <loc>/docs/customizations/fonts/</loc>
+    <loc>/en/docs/customizations/fonts/</loc>
   </url><url>
-    <loc>/docs/settings/general/</loc>
+    <loc>/en/docs/settings/general/</loc>
   </url><url>
-    <loc>/docs/settings/header/</loc>
+    <loc>/en/docs/settings/header/</loc>
   </url><url>
-    <loc>/docs/settings/footer/</loc>
+    <loc>/en/docs/settings/footer/</loc>
   </url><url>
-    <loc>/docs/settings/</loc>
+    <loc>/en/docs/settings/</loc>
   </url><url>
-    <loc>/docs/customizations/css/</loc>
+    <loc>/en/docs/customizations/css/</loc>
   </url><url>
-    <loc>/docs/customizations/</loc>
+    <loc>/en/docs/customizations/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>/en/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
   </url><url>
-    <loc>/tags/jamstack/</loc>
+    <loc>/en/tags/jamstack/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/performance/</loc>
+    <loc>/en/tags/performance/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/en/blog/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
   </url><url>
-    <loc>/blog/this-theme-has-a-perfect-google-lighthousenbspscore/</loc>
+    <loc>/en/blog/this-theme-has-a-perfect-google-lighthousenbspscore/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/code/</loc>
+    <loc>/en/tags/code/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/jamstack-has-matured/</loc>
+    <loc>/en/blog/jamstack-has-matured/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/artisanal-web-development/</loc>
+    <loc>/en/blog/artisanal-web-development/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/code-is-poetry/</loc>
+    <loc>/en/blog/code-is-poetry/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/has-webp-landed-yet/</loc>
+    <loc>/en/blog/has-webp-landed-yet/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/the-stackless-way/</loc>
+    <loc>/en/blog/the-stackless-way/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/bricks/404/</loc>
+    <loc>/en/docs/bricks/404/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>/en/about/</loc>
   </url><url>
-    <loc>/docs/bricks/about/</loc>
+    <loc>/en/docs/bricks/about/</loc>
   </url><url>
-    <loc>/basic/</loc>
+    <loc>/en/basic/</loc>
   </url><url>
-    <loc>/basic2/</loc>
+    <loc>/en/basic2/</loc>
   </url><url>
-    <loc>/bricks/blocks/</loc>
+    <loc>/en/bricks/blocks/</loc>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/en/blog/</loc>
   </url><url>
-    <loc>/docs/shortcodes/breadcrumbs/</loc>
+    <loc>/en/docs/shortcodes/breadcrumbs/</loc>
   </url><url>
-    <loc>/bricks/</loc>
+    <loc>/en/bricks/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/bricks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/bricks/"
                 />
-  </url><url>
-    <loc>/docs/shortcodes/button/</loc>
-  </url><url>
-    <loc>/docs/bricks/cta/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/"
+                />
+  </url><url>
+    <loc>/en/docs/shortcodes/button/</loc>
+  </url><url>
+    <loc>/en/docs/bricks/cta/</loc>
+  </url><url>
+    <loc>/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/categories/"
                 />
-  </url><url>
-    <loc>/docs/bricks/contact/</loc>
-  </url><url>
-    <loc>/docs/shortcodes/contactbuttons/</loc>
-  </url><url>
-    <loc>/docs/shortcodes/contact-form/</loc>
-  </url><url>
-    <loc>/contact/</loc>
-  </url><url>
-    <loc>/bricks/cta/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/cta/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/categories/"
+                />
+  </url><url>
+    <loc>/en/docs/bricks/contact/</loc>
+  </url><url>
+    <loc>/en/docs/shortcodes/contactbuttons/</loc>
+  </url><url>
+    <loc>/en/docs/shortcodes/contact-form/</loc>
+  </url><url>
+    <loc>/en/contact/</loc>
+  </url><url>
+    <loc>/en/bricks/cta/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/cta/"
                 />
-  </url><url>
-    <loc>/docs/shortcodes/cta-form/</loc>
-  </url><url>
-    <loc>/elements/</loc>
-  </url><url>
-    <loc>/docs/shortcodes/faq/</loc>
-  </url><url>
-    <loc>/faq/</loc>
-  </url><url>
-    <loc>/bricks/features/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/features/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/cta/"
+                />
+  </url><url>
+    <loc>/en/docs/shortcodes/cta-form/</loc>
+  </url><url>
+    <loc>/en/elements/</loc>
+  </url><url>
+    <loc>/en/docs/shortcodes/faq/</loc>
+  </url><url>
+    <loc>/en/faq/</loc>
+  </url><url>
+    <loc>/en/bricks/features/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/features/"
                 />
-  </url><url>
-    <loc>/docs/bricks/features/</loc>
-  </url><url>
-    <loc>/services/first-service/</loc>
-  </url><url>
-    <loc>/docs/shortcodes/gallery/</loc>
-  </url><url>
-    <loc>/get-started/</loc>
-  </url><url>
-    <loc>/header-dark/</loc>
-  </url><url>
-    <loc>/header-darker/</loc>
-  </url><url>
-    <loc>/header-with-title/</loc>
-  </url><url>
-    <loc>/header-transparent/</loc>
-  </url><url>
-    <loc>/header-with-content/</loc>
-  </url><url>
-    <loc>/headers/</loc>
-  </url><url>
-    <loc>/demo-hiking/</loc>
-  </url><url>
-    <loc>/docs/bricks/image/</loc>
-  </url><url>
-    <loc>/docs/bricks/image2/</loc>
-  </url><url>
-    <loc>/images/</loc>
-  </url><url>
-    <loc>/bricks/intro/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/intro/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/features/"
+                />
+  </url><url>
+    <loc>/en/docs/bricks/features/</loc>
+  </url><url>
+    <loc>/en/services/first-service/</loc>
+  </url><url>
+    <loc>/en/docs/shortcodes/gallery/</loc>
+  </url><url>
+    <loc>/en/get-started/</loc>
+  </url><url>
+    <loc>/en/header-dark/</loc>
+  </url><url>
+    <loc>/en/header-darker/</loc>
+  </url><url>
+    <loc>/en/header-with-title/</loc>
+  </url><url>
+    <loc>/en/header-transparent/</loc>
+  </url><url>
+    <loc>/en/header-with-content/</loc>
+  </url><url>
+    <loc>/en/headers/</loc>
+  </url><url>
+    <loc>/en/demo-hiking/</loc>
+  </url><url>
+    <loc>/en/docs/bricks/image/</loc>
+  </url><url>
+    <loc>/en/docs/bricks/image2/</loc>
+  </url><url>
+    <loc>/en/images/</loc>
+  </url><url>
+    <loc>/en/bricks/intro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/intro/"
                 />
-  </url><url>
-    <loc>/docs/bricks/intro/</loc>
-  </url><url>
-    <loc>/bricks/map/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/bricks/map/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/bricks/intro/"
+                />
+  </url><url>
+    <loc>/en/docs/bricks/intro/</loc>
+  </url><url>
+    <loc>/en/bricks/map/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="/bricks/map/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/bricks/map/"
+                />
   </url><url>
-    <loc>/docs/bricks/map/</loc>
+    <loc>/en/docs/bricks/map/</loc>
   </url><url>
-    <loc>/docs/shortcodes/map/</loc>
+    <loc>/en/docs/shortcodes/map/</loc>
   </url><url>
-    <loc>/docs/customizations/multiple-languages/</loc>
+    <loc>/en/docs/customizations/multiple-languages/</loc>
   </url><url>
-    <loc>/team/</loc>
+    <loc>/en/team/</loc>
   </url><url>
-    <loc>/404/</loc>
+    <loc>/en/404/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/404.html"
+                href="/404.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/404/"
+                href="/en/404/"
                 />
   </url><url>
-    <loc>/demo-paragliding/</loc>
+    <loc>/en/demo-paragliding/</loc>
   </url><url>
-    <loc>/demo-pos/</loc>
+    <loc>/en/demo-pos/</loc>
   </url><url>
-    <loc>/docs/bricks/posts/</loc>
+    <loc>/en/docs/bricks/posts/</loc>
   </url><url>
-    <loc>/demo-poulterer/</loc>
+    <loc>/en/demo-poulterer/</loc>
   </url><url>
-    <loc>/bricks/prices/</loc>
+    <loc>/en/bricks/prices/</loc>
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>/en/privacy-policy/</loc>
   </url><url>
-    <loc>/products/1/</loc>
+    <loc>/en/products/1/</loc>
   </url><url>
-    <loc>/products/</loc>
+    <loc>/en/products/</loc>
   </url><url>
-    <loc>/bricks/quote/</loc>
+    <loc>/en/bricks/quote/</loc>
   </url><url>
-    <loc>/bricks/reviews/</loc>
+    <loc>/en/bricks/reviews/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/bricks/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/bricks/reviews/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/bricks/reviews/"
+                />
   </url><url>
-    <loc>/docs/bricks/reviews/</loc>
+    <loc>/en/docs/bricks/reviews/</loc>
   </url><url>
-    <loc>/services/second-service/</loc>
+    <loc>/en/services/second-service/</loc>
   </url><url>
-    <loc>/services/</loc>
+    <loc>/en/services/</loc>
   </url><url>
-    <loc>/docs/shortcodes/socialbuttons/</loc>
+    <loc>/en/docs/shortcodes/socialbuttons/</loc>
   </url><url>
-    <loc>/docs/shortcodes/subpages/</loc>
+    <loc>/en/docs/shortcodes/subpages/</loc>
   </url><url>
-    <loc>/docs/shortcodes/tabs/</loc>
+    <loc>/en/docs/shortcodes/tabs/</loc>
   </url><url>
-    <loc>/docs/bricks/team/</loc>
+    <loc>/en/docs/bricks/team/</loc>
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>/en/tags/test/</loc>
   </url><url>
-    <loc>/services/third-service/</loc>
+    <loc>/en/services/third-service/</loc>
   </url><url>
-    <loc>/docs/bricks/title/</loc>
+    <loc>/en/docs/bricks/title/</loc>
   </url><url>
-    <loc>/docs/bricks/title2/</loc>
+    <loc>/en/docs/bricks/title2/</loc>
   </url><url>
-    <loc>/docs/shortcodes/video/</loc>
+    <loc>/en/docs/shortcodes/video/</loc>
   </url><url>
-    <loc>/docs/bricks/wide/</loc>
+    <loc>/en/docs/bricks/wide/</loc>
   </url><url>
-    <loc>/docs/shortcodes/youtube/</loc>
+    <loc>/en/docs/shortcodes/youtube/</loc>
   </url>
 </urlset>

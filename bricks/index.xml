@@ -5,28 +5,21 @@
     <link>/bricks/</link>
     <description>Recent content in Bricks on </description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>nl</language>
     <atom:link href="/bricks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blocks</title>
-      <link>/bricks/blocks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bricks/blocks/</guid>
-      <description>Alternative services 1 Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&#xA;Covers all components Includes many bricks.&#xA;99+ Google Lighthouse score Lightning fast website.&#xA;Themeable through CSS variables Easily themeable.&#xA;Fully responsive on all devices Works on every screen.&#xA;Super fast builds and deploys Extremely fast.&#xA;10+ pre-build pages Start with the end result.</description>
-    </item>
     <item>
       <title>cta</title>
       <link>/bricks/cta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/bricks/cta/</guid>
-      <description>Get started with Hugobricks today! Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.&#xA;Get started now</description>
+      <description>Start vandaag nog met Hugobricks! Ervaar de toekomst van webontwikkeling met Hugo en stapelbare content bricks. Bouw razendsnelle flexibele statische sites met het grootste gemak.&#xA;Start nu direct</description>
     </item>
     <item>
       <title>features</title>
       <link>/bricks/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/bricks/features/</guid>
-      <description>The Ultimate Hugo theme Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&#xA;Covers all components We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.&#xA;99+ Google Lighthouse score Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit.</description>
+      <description>Het ultieme Hugo-thema Hugobricks omvat alle componenten die u bij de hand wilt hebben. Het is een krachtige motor voor uw webgerichte projecten. Het heeft uitstekende prestaties in alle categorieën.&#xA;Omvat alle componenten We streven ernaar de volgende bouwstenen te leveren: intro, titel, afbeelding, cta, contact, team, getuigenissen, over, prijzen, producten, product, usps, statistieken, galerij, offerte, veelgestelde vragen, merken, video, blogs, post, gerelateerd.&#xA;&amp;mdash; 99+ Google Lighthouse-score Razendsnelle website. Lorem ipsum dolor sit amet consectetur adipisicing elit.</description>
     </item>
     <item>
       <title>intro</title>
@@ -43,25 +36,11 @@
       <description>Google Maps&#xA;Contact us Usecue BV&#xA;Soetendaal 7&#xA;1081BL Amsterdam&#xA;The Netherlands</description>
     </item>
     <item>
-      <title>prices</title>
-      <link>/bricks/prices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bricks/prices/</guid>
-      <description>Our friendly pricing Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&#xA;budget&#xA;Open-source Full-featured theme/page builder to create super fast &amp;amp; amazing website&#xA;$0/month Hugobricks theme/code All available bricks Regular updates Bug fixes &amp;amp; security patches Get started&#xA;most popular&#xA;Hosted Everything in one toolkit – We host your website on our top-notch infrastructure.</description>
-    </item>
-    <item>
-      <title>quote</title>
-      <link>/bricks/quote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bricks/quote/</guid>
-      <description>&amp;ldquo;Ready to build your next project with Hugobricks?&amp;rdquo; — Lorem ipsum dolor</description>
-    </item>
-    <item>
       <title>Reviews</title>
       <link>/bricks/reviews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/bricks/reviews/</guid>
-      <description>What users say about Hugobricks Don&amp;rsquo;t just take our word for it - hear from some of our satisfied users! Check out some of our testimonials below to see what others are saying about Hugobricks.</description>
+      <description>Wat gebruikers zeggen over Hugobricks U hoeft ons niet op ons woord te geloven - luister liever naar onze tevreden gebruikers! Bekijk hieronder enkele getuigenissen om te zien wat men zoal over Hugobricks zegt.</description>
     </item>
   </channel>
 </rss>
